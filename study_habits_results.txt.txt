@@ -1,0 +1,14 @@
+=== Análisis de Hábitos de Estudio ===
+Promedio de horas diarias: 3.0
+Día más productivo: Lunes (5 horas)
+Día menos productivo: Sabado (2 horas)
+
+Recomendaciones:
+- El Martes no estudiaste chino. Considera agregar 1 hora para avanzar en tu aprendizaje.
+- El Martes no estudiaste inglés. Considera agregar 1 hora para mejorar tu fluidez.
+- El Jueves no estudiaste inglés. Considera agregar 1 hora para mejorar tu fluidez.
+- El Viernes no estudiaste chino. Considera agregar 1 hora para avanzar en tu aprendizaje.
+- El Domingo no estudiaste inglés. Considera agregar 1 hora para mejorar tu fluidez.
+
+Puntuación de Productividad: 60/100
+¡Buen esfuerzo! Puedes mejorar ajustando algunos días.
